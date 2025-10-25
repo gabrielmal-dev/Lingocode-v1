@@ -24,3 +24,17 @@ cat <file>: View file contents immediately.
 list & delete: Manage generated files easily.
 
 LingoCode acts as your personal AI programming assistant, ready to bring your ideas to life without the usual hassle of syntax or immediate errors.
+
+
+
+
+
+#Download:
+
+
+
+https://deathrazor.itch.io/lingocode
+
+
+
+________________
